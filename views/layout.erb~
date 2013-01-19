@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>Rate me!</h1>        
+        <h1>Integrator!</h1>        
         	<%= yield %>
 
     </body>
